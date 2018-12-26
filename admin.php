@@ -20,7 +20,7 @@ echo $_SESSION['username'];
 }
 else
 {
-include 'Index.html';
+include 'index.html';
 echo"<html><body align=center><h1 text='red'>Invalid User!!!</h1><body></html>";
 
 
